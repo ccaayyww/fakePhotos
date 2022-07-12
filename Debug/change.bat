@@ -1,0 +1,1 @@
+ren pc.tmp pc_1.jpg
